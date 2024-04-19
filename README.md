@@ -27,7 +27,7 @@ For more detailed insights into the research, methodologies, and results, you ca
 
 ## Gallery 🖼️
 
-![Amharic Character Recognition Results](path-to-your-image.jpg)
+![Amharic Character Recognition Results](_cotet/download.png)
 
 Replace `path-to-your-image.jpg` with the actual path to your image in the repository when you're ready to display it.
 
